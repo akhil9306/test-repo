@@ -1,0 +1,4 @@
+disk: focal
+language: shell
+sript: echo "Testing"
+install: skip
